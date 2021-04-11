@@ -1,0 +1,25 @@
+{
+  "name": "vite-cli",
+  "version": "1.0.0",
+  "description": "This is a cli tool for quick development in vue, react and angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doublewill/vite-cli.git"
+  },
+  "keywords": [
+    "vite-cli",
+    "vue",
+    "react",
+    "angular"
+  ],
+  "author": "doublewill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doublewill/vite-cli/issues"
+  },
+  "homepage": "https://github.com/doublewill/vite-cli#readme"
+}
