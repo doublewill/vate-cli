@@ -1,5 +1,5 @@
 {
-  "name": "vite-cli",
+  "name": "vate-cli",
   "version": "1.0.0",
   "description": "This is a cli tool for quick development in vue, react and angular",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doublewill/vite-cli.git"
+    "url": "git+https://github.com/doublewill/vate-cli.git"
   },
   "keywords": [
-    "vite-cli",
+    "vate-cli",
     "vue",
     "react",
     "angular"
@@ -19,7 +19,7 @@
   "author": "doublewill",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doublewill/vite-cli/issues"
+    "url": "https://github.com/doublewill/vate-cli/issues"
   },
-  "homepage": "https://github.com/doublewill/vite-cli#readme"
+  "homepage": "https://github.com/doublewill/vate-cli#readme"
 }
